@@ -2,9 +2,6 @@
 This repository contains basic levels of programming questions with their solve code
 
 
-
-
-
 #include<iostream>
 using namespace std;
 int main(){
@@ -26,7 +23,6 @@ int main(){
         }
     }*/
     // By Using while Loop
-
     cout<<"The GCD OF this two numbers is "<<c<<endl;
     cout<<"The LCM OF this two numbers is "<<(a*b)/c<<endl;
     return 0;
