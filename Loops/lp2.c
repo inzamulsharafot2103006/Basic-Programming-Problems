@@ -11,3 +11,4 @@ int main(){
     printf("Sum = %d", sum);
     return 0;
 }
+// Sum Of aTh Natural Number By Using Loop
